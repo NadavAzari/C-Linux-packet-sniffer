@@ -2,6 +2,6 @@
  
 ## Capabilities
 
-protocol ** TCP
-protocol ** UDO
-protocol ** ICMP
+protocol **TCP**
+protocol **UDP**
+protocol **ICMP**
